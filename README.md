@@ -15,10 +15,9 @@ which is also a valid option, however make sure to sand down the top piece after
 This is a standard hand wired keyboards. The rows are connected with diodes, the columns are joined together with wire.<br>
 | Rows | Columns |
 |------|---------|
-|<table> <tr><th>Row number</th><th>Pin number</th></tr><tr><td>0</td><td>D3</td></tr><tr><td>1</td><td>D2</td></tr><tr><td>2</td><td>D1</td></tr><tr><td>3</td><td>D0</td></tr><tr><td>4</td><td>D4</td></tr></table>| <table> <tr><th>Column number</th><th>Pin number</th></tr><tr><td>0</td><td>B6</td></tr><tr><td>1</td><td>B2</td></tr><tr><td>2</td><td>B3</td></tr><tr><td>3</td><td>B1</td></tr><tr><td>4</td><td>F7</td></tr><tr><td>5</td><td>F6</td></tr><tr><td>6</td><td>F5</td></tr><tr><td>7</td><td>F4</td></tr><tr><td>8</td><td>B5</td></tr><tr><td>9</td><td>B4</td></tr><tr><td>10</td><td>E6</td></tr><tr><td>11</td><td>D7</td></tr> </table>|<br>
-Wiring diagram:
+|<table> <tr><th>Row number</th><th>Pin number</th></tr><tr><td>0</td><td>D3</td></tr><tr><td>1</td><td>D2</td></tr><tr><td>2</td><td>D1</td></tr><tr><td>3</td><td>D0</td></tr><tr><td>4</td><td>D4</td></tr></table>| <table> <tr><th>Column number</th><th>Pin number</th></tr><tr><td>0</td><td>B6</td></tr><tr><td>1</td><td>B2</td></tr><tr><td>2</td><td>B3</td></tr><tr><td>3</td><td>B1</td></tr><tr><td>4</td><td>F7</td></tr><tr><td>5</td><td>F6</td></tr><tr><td>6</td><td>F5</td></tr><tr><td>7</td><td>F4</td></tr><tr><td>8</td><td>B5</td></tr><tr><td>9</td><td>B4</td></tr><tr><td>10</td><td>E6</td></tr><tr><td>11</td><td>D7</td></tr> </table>|
+### Wiring diagram
 ![Wiring diagram](/img/diagram.png")
-
 ## Firmware
 The firmware is your standard QMK firmware. I'll share the .hex file once I'm satisfied with it.
 ## Notes
