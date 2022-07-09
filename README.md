@@ -10,7 +10,7 @@ on my smaller 3D printer. Please note that this repo is focused only on the JJ50
 ## Cuts
 There are 4 smaller files, two for bottom and 2 for the top piece. The pieces have holes in them for pegs, of which you will need 4 of them. The pegs help with
 rugidity of the whole thing. I recommend glueing the pieces together. As I didn't have any glue suitable for PLA, I used a 3D pen to "weld" the pieces together,
-which is also a valid option, however make sure to sand down the top piece afterwards, or the switches won't fit well.
+which is also a valid option, however make sure to sand down the top piece afterwards, or the switches may not sit flush.
 ## Wiring
 This is a standard hand wired keyboards. The rows are connected with diodes, the columns are joined together with wire.<br>
 | Rows | Columns |
@@ -19,7 +19,8 @@ This is a standard hand wired keyboards. The rows are connected with diodes, the
 ### Wiring diagram
 ![Wiring diagram](img/diagram.png)
 ## Firmware
-The firmware is your standard QMK firmware. I'll share the .hex file once I'm satisfied with it.
+The firmware is your standard .HEX file compiled in QMK. You can find my .HEX as well as the full source files on my Github page. 
+I'd recommend you to write your own keymap, as I used mapping for Czech layout and forgot to add parentheses, whoops, next version is coming soon™.
 ## Notes
 I ended up not using the brace, since my awful wiring pushes the Pro Micro to its place.<br>
 You might have to file the cherry stabs hole a bit for it to fit.<br>
