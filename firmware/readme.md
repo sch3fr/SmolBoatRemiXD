@@ -1,12 +1,12 @@
 # smolboatremixd
 
-![smolboatremixd](imgur.com image replace me!)
+![smolboatremixd](https://github.com/sch3fr/SmolBoatRemiXD/blob/main/img/keeb.jpg)
 
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [František](https://github.com/sch3fr)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: *Pro Micro, hand wiring*
+* Hardware Availability: *[Original on thingiverse](https://www.thingiverse.com/thing:3289175), [My edited files](https://github.com/sch3fr/SmolBoatRemiXD/tree/main/STL)*
 
 Make example for this keyboard (after setting up your build environment):
 
