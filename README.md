@@ -20,7 +20,7 @@ This is a standard hand wired keyboards. The rows are connected with diodes, the
 ![Wiring diagram](img/diagram.png)
 ## Firmware
 The firmware is your standard .HEX file compiled in QMK. You can find my .HEX as well as the full source files on my Github page. 
-I'd recommend you to write your own keymap, as I used mapping for Czech layout and forgot to add parentheses, whoops, next version is coming soon™.
+I'd recommend you to write your own keymap, as I used mapping for Czech layout.
 ## Notes
 I ended up not using the brace, since my awful wiring pushes the Pro Micro to its place.<br>
 You might have to file the cherry stabs hole a bit for it to fit.<br>
