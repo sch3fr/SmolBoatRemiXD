@@ -5,7 +5,7 @@
         "cols": 12
     },
     "layouts": {
-        "labels": default,
+        "labels": ["default"],
         "keymap":[
             [
               "0,0",
