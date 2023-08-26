@@ -27,7 +27,14 @@ Github page. I'd recommend you to write your own keymap, as I used mapping for C
 The firmware is compiled using Vial, meaning you can edit your keymap wiht nice UI without needing to rewrite and 
 recompile it everytime you want to make some changes. It is still based on my czech keymap, meaning you probably want
 to make your own
+## Installation
+1. Print all the pieces
+1. Add switches
+1. Wire according to the diagram, diodes between the rows, wire between columns
+1. Connect to a computer, short RST and Ground pins
+1. Flah smolboat_vial.hex
+
 ## Notes
 I ended up not using the brace, since my awful wiring pushes the Pro Micro to its place.<br>
 You might have to file the cherry stabs hole a bit for it to fit.<br>
-~~I'd love to add Via support sometime in the future.~~ Done ✅
+~~I'd love to add Via support sometime in the future.~~ Vial is finally one ✅🥳
