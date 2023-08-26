@@ -1,5 +1,5 @@
 # SmolBoatRemiXD
-![smolboatremixd](/img/keeb.jpg)
+![smolboatremixd](/img/keeb.png)
 SmolBoat is a custom 3D printed mechanical keyboard designed by [Druz320 on Thingiverse](https://www.thingiverse.com/thing:3289175).
 While I really liked the design, there were some tweaks that I wanted to make, and I also needed smaller models, so I could print it
 on my smaller 3D printer. Please note that this repo is focused only on the JJ50 clone.

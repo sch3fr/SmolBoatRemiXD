@@ -1,6 +1,6 @@
 # smolboatremixd
 
-![smolboatremixd](https://github.com/sch3fr/SmolBoatRemiXD/blob/main/img/keeb.jpg)
+![smolboatremixd](https://github.com/sch3fr/SmolBoatRemiXD/blob/main/img/keeb.png)
 
 *A short description of the keyboard/project*
 
