@@ -37,4 +37,4 @@ to make your own
 ## Notes
 I ended up not using the brace, since my awful wiring pushes the Pro Micro to its place.<br>
 You might have to file the cherry stabs hole a bit for it to fit.<br>
-~~I'd love to add Via support sometime in the future.~~ Vial is finally one ✅🥳
+~~I'd love to add Via support sometime in the future.~~ Vial is finally done ✅🥳
